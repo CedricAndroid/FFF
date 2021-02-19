@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "115647058829",
+    "firebase_url": "https://foodforfamily-63b04.firebaseio.com",
+    "project_id": "foodforfamily-63b04",
+    "storage_bucket": "foodforfamily-63b04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115647058829:android:edf372c825d6bca6d063c4",
+        "android_client_info": {
+          "package_name": "com.cedric.FoodForFamily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115647058829-b4ejk6sb2ise30jcur388li9964v62a7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByw0gw9QE6V8xDAi1p3tIUQmKQYNOhYf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115647058829-b4ejk6sb2ise30jcur388li9964v62a7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
